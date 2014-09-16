@@ -14,8 +14,11 @@ Mobile Applications Scanner [hackapp.com](https://hackapp.com)
 Prerequisite
 ======
 
+```bash
 pip install protobuf
+
 pip install pycrypto
+```
 
 Example
 ======
