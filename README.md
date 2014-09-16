@@ -11,6 +11,11 @@ Hackapp [blog](blog.hackapp.com)
 
 Mobile Applications Scanner [hackapp.com](https://hackapp.com)
 
+Prerequisite
+======
+
+pip install protobuf
+pip install pycrypto
 
 Example
 ======
